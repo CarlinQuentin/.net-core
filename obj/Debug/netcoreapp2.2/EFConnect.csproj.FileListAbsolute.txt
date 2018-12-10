@@ -1,0 +1,6 @@
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.csprojAssemblyReference.cache
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.csproj.CoreCompileInputs.cache
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.RazorAssemblyInfo.cache
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.RazorAssemblyInfo.cs
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.AssemblyInfoInputs.cache
+/Users/quentincarlin/Documents/dotnet/C#-Basics/EFConnect/obj/Debug/netcoreapp2.2/EFConnect.AssemblyInfo.cs

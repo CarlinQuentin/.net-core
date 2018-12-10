@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <!-- <System.Reflection.Assembly> -->
+    <GenerateAssemblyCompanyattribute>false</GenerateAssemblyCompanyattribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Hosting.RazorLanguageVersionAttribute" Version="2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Hosting.RazorConfigurationNameAttribute" Version="2.1" />
+    <PackageReference Include="System.Reflection.AssemblyCompanyAttribute" PrivateAssets="EFConnect" />
+    <PackageReference Include="System.Reflection.AssemblyConfigurationAttribute" PrivateAssets="Debug" />
+    <PackageReference Include="System.Reflection.AssemblyFileVersionAttribute" Version="1.0.0.0" />
+    <PackageReference Include="System.Reflection.AssemblyInformationalVersionAttribute" Version="1.0.0" />
+    <PackageReference Include="System.Reflection.AssemblyProductAttribute" PrivateAssets="EFConnect" />
+    <PackageReference Include="System.Reflection.AssemblyTitleAttribute" PrivateAssets="EFConnect" />
+    <PackageReference Include="System.Reflection.AssemblyVersionAttribute" Version="1.0.0.0" />
+  </ItemGroup>
+
+
+</Project>
+
+<!-- // [assembly: System.Reflection.AssemblyCompanyAttribute("EFConnect")]
+// [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+// [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+// [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+// [assembly: System.Reflection.AssemblyProductAttribute("EFConnect")]
+// [assembly: System.Reflection.AssemblyTitleAttribute("EFConnect")]
+// [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")] -->
+
+<!-- // [assembly: Microsoft.AspNetCore.Razor.Hosting.RazorLanguageVersionAttribute("2.1")]
+// [assembly: Microsoft.AspNetCore.Razor.Hosting.RazorConfigurationNameAttribute("MVC-2.1")] -->
